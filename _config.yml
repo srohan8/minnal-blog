@@ -1,0 +1,15 @@
+title: Minnal Blog
+description: Insights on AI-native marketing, GEO, and building brand visibility in the age of AI search.
+url: https://blog.minnal.io
+baseurl: ""
+author: Minnal
+
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

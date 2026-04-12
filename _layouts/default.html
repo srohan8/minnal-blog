@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — Minnal Blog</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="https://minnal.io" class="nav-logo">⚡ Minnal</a>
+      <div class="nav-links">
+        <a href="/">Blog</a>
+        <a href="https://docs.minnal.io">Docs</a>
+        <a href="https://app.minnal.io" class="btn-nav">Open app</a>
+      </div>
+    </div>
+  </nav>
+
+  {{ content }}
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <span>⚡ Minnal Blog</span>
+        <div class="footer-links">
+          <a href="https://minnal.io">Home</a>
+          <a href="https://docs.minnal.io">Docs</a>
+          <a href="mailto:hello@minnal.io">Contact</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
