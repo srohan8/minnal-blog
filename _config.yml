@@ -1,7 +1,7 @@
 title: MarketingHub Blog
 description: Insights on unified marketing, GEO, and building brand visibility in the new era of AI search.
 url: https://blog.minnal.io
-baseurl: ""
+baseurl: "/minnal-blog"
 author: Minnal
 
 permalink: /:year/:month/:day/:title/

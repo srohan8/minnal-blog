@@ -3,7 +3,7 @@ layout: default
 ---
 <main class="post-page">
   <div class="container">
-    <a href="/" class="back-link">← All posts</a>
+    <a href="{{ site.baseurl }}/" class="back-link">← All posts</a>
     <article>
       <header class="post-header">
         <div class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} · {{ page.author }}{% endif %}</div>
