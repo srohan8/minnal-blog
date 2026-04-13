@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# The Complete Guide to LLM Visibility Tracking for Indie Hackers
-
 *How to make sure ChatGPT, Claude, and Perplexity recommend your product when it matters most*
 
 ---

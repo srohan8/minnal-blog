@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# Minnal vs Buffer vs Hootsuite: The Complete Comparison for Indie Hackers
-
 Choosing a social media management tool as a solo founder? You're probably weighing Buffer, Hootsuite, or newer AI-native options like Minnal.
 
 Here's an honest, detailed comparison to help you decide.

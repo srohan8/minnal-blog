@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# Building an AI Marketing Platform with MCP: Technical Deep-Dive
-
 I spent 6 months building Minnal, an AI-native marketing platform that works inside Claude Desktop via Model Context Protocol (MCP).
 
 Here's everything I learned about building conversational tools that actually work.

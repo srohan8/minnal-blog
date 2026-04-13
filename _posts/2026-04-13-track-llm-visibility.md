@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# How to Track Your LLM Visibility (And Why It Matters)
-
 When someone asks ChatGPT "what's a good project management tool?" — does your product show up?
 
 If you don't know the answer, you're flying blind on the fastest-growing discovery channel in 2026.

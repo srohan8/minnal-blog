@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# LLM Visibility Tracking: The New Marketing Channel Indie Hackers Can't Ignore
-
 Your SEO is perfect. Your Product Hunt launch crushed it. But when someone asks ChatGPT "what's a good project management tool?" — you're invisible.
 
 This is **LLM visibility**, and it's the marketing channel that didn't exist in 2023.

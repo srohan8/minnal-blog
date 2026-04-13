@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# What is GEO (Generative Engine Optimization)? The Complete Guide for 2026
-
 SEO is dead. Long live GEO.
 
 Not really — but if you're still optimizing solely for Google in 2026, you're missing where your customers actually are: inside ChatGPT, Claude, and Perplexity.

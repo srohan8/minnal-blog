@@ -4,8 +4,6 @@ date: 2026-04-13
 layout: post
 ---
 
-# The Solo Founder's Marketing Playbook for 2026
-
 You're building your product alone. You don't have a marketing team. You barely have time to tweet.
 
 Here's the realistic marketing strategy that actually works when you're a team of one.
