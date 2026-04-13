@@ -10,7 +10,7 @@ title: Blog
     </div>
     <div class="post-list">
       {% for post in site.posts %}
-      <a href="{{ post.url }}" class="post-card">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-card">
         <div class="post-card-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
         <h2>{{ post.title }}</h2>
         {% if post.description %}<p>{{ post.description }}</p>{% endif %}
