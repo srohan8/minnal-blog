@@ -13,6 +13,11 @@ layout: default
       <div class="post-content">
         {{ content }}
       </div>
+      <script>
+        // Auto-remove duplicate H1 if post content starts with one
+        var first = document.querySelector('.post-content > h1:first-child');
+        if (first) first.remove();
+      </script>
     </article>
   </div>
 </main>
