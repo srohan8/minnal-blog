@@ -1,7 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --brand: #f97316;
+  --brand: #1F8A5B;
   --gray-50: #f9fafb;
   --gray-100: #f3f4f6;
   --gray-400: #9ca3af;
